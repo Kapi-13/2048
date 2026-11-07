@@ -1,3 +1,7 @@
 {
-    "app_version": [1,2,4]
+    "app_version": {
+        "main":1,
+        "feature": 2,
+        "update": 4
+    }
 }
