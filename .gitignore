@@ -1,4 +1,5 @@
 app/
 convert_to_zip.py
+upgrade.py
 todo.txt
 downloaded_app v*.zip
