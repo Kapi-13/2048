@@ -1,7 +1,7 @@
 {
     "app_version": {
-        "main": 1,
-        "feature": 2,
+        "main": 0,
+        "feature": 1,
         "update": 4
     }
 }
