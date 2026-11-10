@@ -2,4 +2,5 @@ app/
 convert_to_zip.py
 upgrade.py
 todo.txt
+tests.py
 downloaded_app v*.zip
